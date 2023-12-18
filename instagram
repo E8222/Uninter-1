@@ -1,0 +1,4 @@
+<img src="./instagram.png"alt=></img>footer img {
+    width: 30px;
+    height: 30px;
+}
